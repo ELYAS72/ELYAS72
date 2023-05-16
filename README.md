@@ -1,4 +1,8 @@
-# mohamed-elyas
+# Salut, moi c'est Mohamed 👋
+
+Grand passionné de technologie, Blockchain et du Web3, je suis à la recherche d'une alternance avec un rythme de 1 semaine en cours et de 3 semaines en entreprise, pour acquérir de l'expérience en tant que développeur et
+participer à des projets innovants en utilisant des technologies modernes telles que TypeScript, Nest.js ou Node.js .
+
 
 ![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=ELYAS72&show_icons=true&theme=radical)
 
