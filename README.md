@@ -4,7 +4,10 @@ Grand passionné de technologie, Blockchain et du Web3, je suis à la recherche 
 participer à des projets innovants en utilisant des technologies modernes telles que TypeScript, Nest.js ou Node.js .
 
 
-![Anurag's GitHub stats ](https://github-readme-stats.vercel.app/api?username=ELYAS72&show_icons=true&theme=radical)
+<img align= "right" width= "47%" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align= "left" width= "47%" src = "https://github-readme-stats.vercel.app/api?username=ELYAS72&show_icons=true&theme=radical" />
+
+
 
  
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
