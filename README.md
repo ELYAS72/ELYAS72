@@ -4,7 +4,7 @@ Je suis un grand fan et passionné de technologie, Blockchain et du Web3, je sui
 participer à des projets innovants en utilisant des technologies modernes telles que TypeScript, React.js, Nest.js ou Node.js .
 
 
-<img align= "right" width= "40%" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align= "right" width= "57%" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 
 
