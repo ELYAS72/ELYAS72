@@ -1,7 +1,7 @@
 # Salut, moi c'est Mohamed 👋
 
-Grand passionné de technologie, Blockchain et du Web3, je suis à la recherche d'une alternance avec un rythme de 1 semaine en cours et de 3 semaines en entreprise, pour acquérir de l'expérience en tant que développeur et
-participer à des projets innovants en utilisant des technologies modernes telles que TypeScript, Nest.js ou Node.js .
+Je suis un grand fan et passionné de technologie, Blockchain et du Web3, je suis à la recherche d'une alternance avec un rythme de 1 semaine en cours et de 3 semaines en entreprise, pour acquérir de l'expérience en tant que développeur et
+participer à des projets innovants en utilisant des technologies modernes telles que TypeScript, React.js, Nest.js ou Node.js .
 
 
 <img align= "right" width= "40%" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
@@ -38,11 +38,15 @@ participer à des projets innovants en utilisant des technologies modernes telle
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
-# Je souhaite apprendre
+# En apprentissage / perfectionnement
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-
 <img align= "center" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img align= "center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+
+<br>
+<br>
 
 <h2  align="center">📫 Me contacter</h2>
 <p align="center">
