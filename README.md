@@ -41,7 +41,7 @@ participer à des projets innovants en utilisant des technologies modernes telle
 # En apprentissage / perfectionnement
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-<img align= "center" src="https://fontawesome.com/icons/symfony?f=brands&s=solid" />
+![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
 <img align= "center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
