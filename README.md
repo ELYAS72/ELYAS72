@@ -1,7 +1,7 @@
 # Salut, moi c'est Mohamed 👋
 
 Je suis un grand fan et passionné de technologie, Blockchain et du Web3, je suis à la recherche d'une alternance avec un rythme de 1 semaine en cours et de 3 semaines en entreprise, pour acquérir de l'expérience en tant que développeur et
-participer à des projets innovants en utilisant des technologies modernes telles que TypeScript, React.js, Nest.js ou Node.js .
+participer à des projets innovants en utilisant des technologies modernes telles que Symfony, React.js ou Node.js .
 
 
 <img align= "right" width= "57%" src = "https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
