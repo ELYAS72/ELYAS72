@@ -42,7 +42,7 @@ participer à des projets innovants en utilisant des technologies modernes telle
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![PHP](https://img.shields.io/badge/PHP-black?style=flat-square&logo=php)
-<img align= "center" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
 <br>
